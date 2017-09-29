@@ -1162,7 +1162,7 @@ Calcular las derivadas parciales de las siguientes funciones.
 \begin_layout Standard
 \begin_inset Formula 
 \[
-\frac{\partial f}{\partial x}=4x^{3}+2y+y^{2}
+\frac{\partial f}{\partial x}=4x^{3}+2y+y^{3}
 \]
 
 \end_inset
@@ -1173,7 +1173,7 @@ Calcular las derivadas parciales de las siguientes funciones.
 \begin_layout Standard
 \begin_inset Formula 
 \[
-\frac{\partial f}{\partial y}=2x+2y^{2}x
+\frac{\partial f}{\partial y}=2x+3y^{2}x
 \]
 
 \end_inset
