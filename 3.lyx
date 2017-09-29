@@ -1289,7 +1289,7 @@ Calcular las derivadas parciales de las siguientes funciones.
 \begin_layout Standard
 \begin_inset Formula 
 \[
-\frac{\partial f}{\partial x}=z\left(y\sin xy+\frac{2x}{x^{2}+y^{2}+1}\right)
+\frac{\partial f}{\partial x}=z\left(-y\sin xy+\frac{2x}{x^{2}+y^{2}+1}\right)
 \]
 
 \end_inset
@@ -1300,7 +1300,7 @@ Calcular las derivadas parciales de las siguientes funciones.
 \begin_layout Standard
 \begin_inset Formula 
 \[
-\frac{\partial f}{\partial y}=z\left(x\sin xy+\frac{2y}{x^{2}+y^{2}+1}\right)
+\frac{\partial f}{\partial y}=z\left(-x\sin xy+\frac{2y}{x^{2}+y^{2}+1}\right)
 \]
 
 \end_inset
